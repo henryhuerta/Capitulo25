@@ -10,7 +10,8 @@ namespace Sol25
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundos");
+            Console.WriteLine("Hola Mundos Desarrollo");
+            Console.WriteLine("Desarrollo");
             Console.ReadLine();
         }
     }
